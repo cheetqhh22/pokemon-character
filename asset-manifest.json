@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pokemon-character/static/css/main.a665a69a.css",
+    "main.js": "/pokemon-character/static/js/main.e4d91863.js",
+    "static/media/pokemon-logo.png": "/pokemon-character/static/media/pokemon-logo.d5c8a19a4ae0e110b849.png",
+    "index.html": "/pokemon-character/index.html",
+    "main.a665a69a.css.map": "/pokemon-character/static/css/main.a665a69a.css.map",
+    "main.e4d91863.js.map": "/pokemon-character/static/js/main.e4d91863.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a665a69a.css",
+    "static/js/main.e4d91863.js"
+  ]
+}
