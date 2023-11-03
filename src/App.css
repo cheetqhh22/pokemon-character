@@ -34,7 +34,6 @@ align-items: center;
 }
 
 /*Pokemon Data*/
-
 .Pokemon-data .Pokemon-name {
   font-size: 30px;
 }
@@ -53,7 +52,7 @@ align-items: center;
 }
 
 .Pokemon-data img {
-  width: 300px;
+  width: 276px;
 }
 
 .Abilities {
@@ -61,11 +60,12 @@ align-items: center;
   grid-template-columns: 1fr 2fr;
   margin: 10px auto;
   height: 140px;
-  align-items: center;
+  align-items:center;
 }
 
 .Abilities h3 {
   font-size: 20px;
+  text-align: right;
 }
 
 .Abilities-data li {
@@ -87,7 +87,7 @@ align-items: center;
   border-width: 1.5px;
   border-color: #212121;
   border-style: solid;
-  padding: 15px;
+  padding: 10px;
   font-size: 13px;
   cursor: pointer;
 }
@@ -122,10 +122,10 @@ align-items: center;
 /*Favorite pokemon page*/
 .Fav-pokemon {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr ;
   align-items: center;
-  padding: 20px;
-  width: 370px;
+  padding: 5px;
+  width: 270px;
   border-radius: 10px;
   border-width: 1.5px;
   border-color: #BDBDBD;
@@ -133,7 +133,7 @@ align-items: center;
 }
 
 .Fav-pokemon img {
-  width: 80px;
+  width: 70px;
 }
 
 .Fav-pokemon p {
