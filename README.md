@@ -1,3 +1,7 @@
+# Pokemon Character Application with ReactJS
+This is a Pokemon Character application built using React. Users can add their favorite Pokemon characters to the favorite Pokemon page.
+![Pokemon-character-app](https://github.com/cheetqhh22/pokemon-character/assets/139849776/d8f2fcff-9b94-499b-bbf8-562cc1f7572d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
